@@ -13,7 +13,7 @@
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Welcome all our great all leaders,you will get a job</h2>
       
-<center><img src="http://www.santabanta.com/download/bikini/14001162.htm" width=10% hight=10%>
+<center><img src="http://media1.santabanta.com/full5/Babes/Bikini/bikini-162a.jpg" width=10% hight=10%>
  </center> </div>
 </body>
 </html>
