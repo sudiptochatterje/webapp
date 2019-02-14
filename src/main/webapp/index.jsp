@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Welcome to Jenkins </title>
+    <title>Welcome to Pornhub </title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
@@ -13,7 +13,7 @@
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Welcome all our great all leaders,you will get a job</h2>
       
-<center><img src="http://media.santabanta.com/newsite/cinemascope/feed/disha-patani3.jpg" width=10% hight=10%>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Pornhub-logo.svg" width=50% hight=50%>
  </center> </div>
 </body>
 </html>
